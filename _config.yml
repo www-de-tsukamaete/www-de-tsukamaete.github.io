@@ -8,7 +8,7 @@ actors:
     name: bob
     url: http://sns.example.com/bob
 author: alice
-description: Example description
+description: WWWでつかまえます。
 description_long: Example long description
 email: www-de-tsukamaete@googlegroups.com
 exclude:
