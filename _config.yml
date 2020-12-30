@@ -10,7 +10,7 @@ actors:
 author: alice
 description: Example description
 description_long: Example long description
-email: info@example.com
+email: www-de-tsukamaete@googlegroups.com
 exclude:
   - docker
   - docker-compose.yml
@@ -29,5 +29,5 @@ permalink: /episode/:title
 sass:
   sass_dir: css
 timezone: Asia/Tokyo
-title: Example title
-url: http://example.com
+title: wwwでつかまえて
+url: https://www-de-tsukamaete.github.io/
