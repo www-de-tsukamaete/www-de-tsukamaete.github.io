@@ -21,7 +21,7 @@ exclude:
   - vendor
 google_analytics:
 hashtag: wtsuka
-itunes_podcast_url:
+itunes_podcast_url: https://www-de-tsukamaete.github.io/feed.xml
 keywords: comma,separated,keywords
 language: ja
 markdown: kramdown
