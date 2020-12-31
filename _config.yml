@@ -1,12 +1,12 @@
 actors:
-  alice:
-    image_url: /images/actors/alice.png
-    name: alice
+  土井:
+    image_url: /images/actors/doi.jpg
+    name: 土井
     url: http://sns.example.com/alice
-  bob:
-    image_url: /images/actors/bob.png
-    name: bob
-    url: http://sns.example.com/bob
+  peipeipe:
+    image_url: /images/actors/peipeipe.jpg
+    name: peipeipe
+    url: https://www.peipeipe.net/
 author: alice
 description: WWWでつかまえます。
 description_long: Example long description
