@@ -19,7 +19,7 @@ exclude:
   - LICENSE.txt
   - README.md
   - vendor
-google_analytics:
+google_analytics: UA-37803028-1
 hashtag: wtsuka
 itunes_podcast_url: https://www-de-tsukamaete.github.io/feed.xml
 keywords: comma,separated,keywords
