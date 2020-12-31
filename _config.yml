@@ -9,7 +9,7 @@ actors:
     url: https://www.peipeipe.net/
 author: alice
 description: WWWでつかまえます。
-description_long: Example long description
+description_long: インターネットが大好きな2人が最近あったことを話します。やらなくちゃいけないことがたくさんある世の中を生き抜いていく。
 email: www-de-tsukamaete@googlegroups.com
 exclude:
   - docker
