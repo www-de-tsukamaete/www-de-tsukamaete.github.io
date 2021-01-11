@@ -31,3 +31,5 @@ sass:
 timezone: Asia/Tokyo
 title: WWWでつかまえて
 url: https://www-de-tsukamaete.github.io/
+gems:
+  - jekyll-sitemap
