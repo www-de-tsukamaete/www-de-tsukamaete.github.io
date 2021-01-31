@@ -52,7 +52,11 @@
                 </a>
               {% endfor %}
             </div>
-            {{ content }}
+            {% if content contains '<a href=' %}
+                {{ content | replace:'<a','<a target="_blank"' }}
+              {% else %}
+                {{content}}
+              {% endif %}
           </section>
           <footer class="article-footer">
             <a class="twitter-share-button" href="https://twitter.com/intent/tweet?hashtags={{ site.hashtag }}&url={{ site.github.url }}{{ page.url }}&text={{ page.title }}">
