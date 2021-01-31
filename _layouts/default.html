@@ -4,7 +4,11 @@
   <body>
     {% include header.html %}
     <main class="main">
-      {{ content }}
+      {% if content contains '<a href=' %}
+    {{ content | replace:'<a','<a target="_blank"' }}
+    {% else %}
+        {{content}}
+    {% endif %}
     </main>
     {% include footer.html %}
   </body>
